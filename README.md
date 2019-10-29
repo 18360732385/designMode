@@ -10,7 +10,7 @@
 
 静态内部类、双重检查单例、枚举类
 
-#decorator
+# decorator
 
 装饰者模式
 
